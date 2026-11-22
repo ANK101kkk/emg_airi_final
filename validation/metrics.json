@@ -1,0 +1,60 @@
+{
+  "fixed": {
+    "recordings": 80,
+    "sessions": 10,
+    "days": 7,
+    "samples": 1560078,
+    "angle_values": 31201560,
+    "wmae_rad": 0.11630383318445905,
+    "mae_rad": 0.10765721782322961,
+    "r2_uniform_mean": 0.800580078013059,
+    "within10deg_pct": 81.24080975438407,
+    "sign_balanced_pct": 68.51150689025046,
+    "sign_eligible_joints": 14,
+    "sign_eligible_names": [
+      "index_mcp_theta",
+      "index_mcp_fi",
+      "index_dip",
+      "middle_mcp_theta",
+      "middle_dip",
+      "little_mcp_theta",
+      "little_mcp_fi",
+      "little_pip",
+      "little_dip",
+      "ring_mcp_theta",
+      "ring_mcp_fi",
+      "ring_dip",
+      "thumb_mcp_theta",
+      "thumb_dip"
+    ]
+  },
+  "nested_filter": {
+    "recordings": 80,
+    "sessions": 10,
+    "days": 7,
+    "samples": 1560078,
+    "angle_values": 31201560,
+    "wmae_rad": 0.11621331598360982,
+    "mae_rad": 0.1075535054585005,
+    "r2_uniform_mean": 0.8009540382445302,
+    "within10deg_pct": 81.26371245540287,
+    "sign_balanced_pct": 68.47535637050032,
+    "sign_eligible_joints": 14,
+    "sign_eligible_names": [
+      "index_mcp_theta",
+      "index_mcp_fi",
+      "index_dip",
+      "middle_mcp_theta",
+      "middle_dip",
+      "little_mcp_theta",
+      "little_mcp_fi",
+      "little_pip",
+      "little_dip",
+      "ring_mcp_theta",
+      "ring_mcp_fi",
+      "ring_dip",
+      "thumb_mcp_theta",
+      "thumb_dip"
+    ]
+  }
+}

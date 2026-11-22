@@ -1,0 +1,24 @@
+{
+  "weights": {
+    "manifold.pkl": {
+      "numerically_identical": true,
+      "byte_identical": true
+    },
+    "model.pt": {
+      "numerically_identical": true,
+      "byte_identical": true
+    },
+    "rhythm_weights.npz": {
+      "numerically_identical": true,
+      "byte_identical": true
+    },
+    "tds_long_480_1.pt": {
+      "numerically_identical": true,
+      "byte_identical": true
+    }
+  },
+  "max_prediction_diff_rad": 0.0,
+  "num_recordings": 80,
+  "num_samples": 1640078,
+  "same_recipe_and_bounds": true
+}
