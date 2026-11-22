@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+/data/
+/runs/
+/replay/
+/angles.npy
+/phase2_submission.csv
+/AIRI_Phase2_Submit.zip
